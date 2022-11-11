@@ -1,6 +1,7 @@
 .barreMenu {
   background-color: red;
   overflow: hidden;
+  height: 30px;
 }
 
 .pageDeGarde {
