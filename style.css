@@ -1,4 +1,17 @@
-html, body {
-  height: 100%;
-  width: 100%;
+.barreMenu {
+  background-color: red;
+  overflow: hidden;
+}
+
+.pageDeGarde {
+  float: left;
+  overflow: hidden;
+}
+
+.pageDeGarde:hover {
+  background-color: blue;
+}
+
+.montrer {
+  display: block;
 }
