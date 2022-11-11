@@ -1,12 +1,12 @@
 .barreMenu {
-  background-color: red;
+  background-color: #40dbed;
   overflow: hidden;
 }
 
 .barreMenu a {
   float: left;
   font-size: 16px;
-  color: light blue;
+  color: #1a06ee;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
